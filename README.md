@@ -7,7 +7,7 @@ This is a mini project of a game we have played many times in our Childhood i.e.
 
 ## Screenshots
 ![Interface](./Images/Game_interface.png)
-![Interface](./Images/Game_interface2.png)
+![Interface2](./Images/Game_interface2.png)
 
 ## How to Play
 
